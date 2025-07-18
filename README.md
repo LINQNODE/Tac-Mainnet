@@ -76,7 +76,6 @@ make build
 ### ✅ Cosmovisor Installation
 
 ```bash
-# Install Cosmovisor
 go install cosmossdk.io/tools/cosmovisor/cmd/cosmovisor@v1.5.0
 
 ```
