@@ -125,7 +125,7 @@ sudo systemctl enable tacchaind.service
 
 
 ### ✅ Node Configuration
-# Initialize node (replace NODE_NAME with your desired name)
+Initialize node (replace NODE_NAME with your desired name)
 ```bash
 tacchaind init NODE_NAME --chain-id tacchain_239-1
 ```
