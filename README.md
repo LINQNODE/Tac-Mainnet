@@ -20,7 +20,7 @@
 
 | Components  | Minimum Requirements |
 |-------------|----------------------|
-| CPU         | 8 Cores               |
+| CPU         | 8+ Cores               |
 | RAM         | 16+ GB                 |
 | Storage     | 500+ GB SSD            |
 
